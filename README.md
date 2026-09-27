@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/logo.png" alt="VirgoFash Logo" width="220" style="border-radius: 24px;">
+  <img src="logo.png" alt="VirgoFash Logo" width="220" style="border-radius: 24px;">
 </p>
 
 <h1 align="center">VirgoFash</h1>
